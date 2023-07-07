@@ -1,0 +1,8 @@
+//Java string - javatpoint (no date) www.javatpoint.com. Available at: https://www.javatpoint.com/java-string (Accessed: 09 June 2023). 
+//Hartman, J. (2023) Java string manipulation: Functions and methods with example, Guru99. Available at: https://www.guru99.com/java-strings.html (Accessed: 09 June 2023). 
+//https://www.google.com/search?q=how+to+handle+strings+java+netbeans&biw=1280&bih=577&tbm=vid&sxsrf=APwXEdeEhU4YHq6-xD4ZqRA4Ct3-w1rVrA%3A1686311944071&ei=CBSDZNztA-aC9u8P4YyN6AM&ved=0ahUKEwjckaDDkbb_AhVmgf0HHWFGAz0Q4dUDCA0&uact=5&oq=how+to+handle+strings+java+netbeans&gs_lcp=Cg1nd3Mtd2l6LXZpZGVvEAMyBQghEKABOgQIIxAnOgUIABCABDoGCAAQFhAeOggIABAWEB4QCjoICCEQFhAeEB06BwghEKABEAo6CAgAEAgQHhANOggIABCKBRCGA1C7Blj0OmDaQWgAcAB4AIABzgOIAcUqkgEGMy0xMy4ymAEAoAEBwAEB&sclient=gws-wiz-video#fpstate=ive&vld=cid:0a052a4d,vid:J8JHOFwB6oM
+//Add junit5 jar files.2022.Youtube.added by VCSOIT.[Online].Available at:https://www.youtube.com/watch?v=fQaUsfEzGdw&list=PL480DYS-b_kfHSYf2yzLgto_mwDr_U-Q6&index=3 [Accessed 30 April 2023]
+//Arrays in Java (2023) GeeksforGeeks. Available at: https://www.geeksforgeeks.org/arrays-in-java/ (Accessed: 07 July 2023). 
+//Java arrays (no date) Programiz. Available at: https://www.programiz.com/java-programming/arrays (Accessed: 07 July 2023). 
+//Vora, B. (2022) Array in Java (with examples), Scaler Topics. Available at: https://www.scaler.com/topics/java/array-in-java/ (Accessed: 07 July 2023). 
+//Unit testing: Software testing (2023) GeeksforGeeks. Available at: https://www.geeksforgeeks.org/unit-testing-software-testing/ (Accessed: 07 July 2023). 
